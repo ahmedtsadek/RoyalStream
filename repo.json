@@ -1,0 +1,8 @@
+{
+  "name": "RoyalStream",
+  "description": "Royal Drama CloudStream Extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ahmedtsadek/RoyalStream/master/plugins.json"
+  ]
+}
