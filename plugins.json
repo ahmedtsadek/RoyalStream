@@ -1,0 +1,23 @@
+[
+  {
+    "iconUrl": "https://w9.royal-drama.com/uploads/custom-logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ahmedtsadek/RoyalStream",
+    "fileSize": 18227,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+      "Tee"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "RoyalDrama",
+    "url": "https://raw.githubusercontent.com/ahmedtsadek/RoyalStream/master/build/RoyalDrama.cs3",
+    "name": "Royal Drama"
+  }
+]
